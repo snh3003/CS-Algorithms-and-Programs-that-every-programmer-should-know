@@ -1,11 +1,13 @@
-num=int(input("enter the number"))
-sum = 0
-temp = num
-while temp > 0:
-   d = temp % 10
-   sum += d ** 3
-   temp //= 10
-if num == sum:
-   print(num,"is an Armstrong number")
+def palind(n):
+   rev=0
+   while(n>0):
+      dig=n%10
+      rev=rev*10+dig
+      n=n//10
+   return rev      
+n=int (input ("Enter number:"))
+r=palind(n)
+if(n==r):
+   print ("The number is a palindrome!")
 else:
-   print(num,"is not an Armstrong number")
+   print ("The number isn't a palindrome!")
