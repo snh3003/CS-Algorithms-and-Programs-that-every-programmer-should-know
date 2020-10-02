@@ -1,6 +1,6 @@
 # CS-Algorithms-and-Programs-that-every-programmer-should-know.
 
-This reposiory will contain all the important Data Structures, Algorithms and Programs that every programmer should know. These can be implemented in any programming language.
+This repository will contain all the important Data Structures, Algorithms and Programs that every programmer should know. These can be implemented in any programming language.
 
 When creating the pull request:
 
