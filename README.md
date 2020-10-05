@@ -7,7 +7,7 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/cdnjs/cdnjs?style=flat-square)](https://github.com/snh3003/CS-Algorithms-and-Programs-that-every-programmer-should-know/pulls)
 
 <!--[![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/badges/shields?color=blue&style=flat-square)](https://github.com/mbcse/Security_Hacking_Scripts/issues?q=is%3Aissue+is%3Aclosed)-->
-<!--[![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/cdnjs/cdnjs?color=red&style=flat-square)](https://github.com/mbcse/Security_Hacking_Scripts/pulls?q=is%3Apr+is%3Aclosed)-->
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/cdnjs/cdnjs?color=red&style=flat-square)](https://github.com/snh3003/CS-Algorithms-and-Programs-that-every-programmer-should-know/pulls?q=is%3Apr+is%3Aclosed)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
@@ -46,6 +46,7 @@ This will create a copy of this repository in your account.
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the _copy to clipboard_ icon.  
 Now let's bring the cloned repository to your local machine.  
 `git clone <url-you-just-copied>`  
+
 For example:  
 ` git clone https://github.com/snh3003/CS-Algorithms-and-Programs-that-every-programmer-should-know.git`
 
@@ -54,6 +55,7 @@ For example:
 ## 3. Move inside the repository
 
 Since you want to change the files inside, first let's move to the folder correctly. Use the following command on terminal:  
+
 `cd CS-Algorithms-and-Programs-that-every-programmer-should-know`
 
 ---
@@ -63,7 +65,9 @@ Since you want to change the files inside, first let's move to the folder correc
 Since now you're about to make your personal changes to the project, it's always a better idea to make a new branch. Run the following command:
 
 `git checkout -b <branch_name>`  
+
 For example:  
+
 `git checkout -b new_branch`
 
 ---
@@ -74,7 +78,9 @@ It's finally that time when you commit your changes and leave a beautiful commit
 
 `git add .`  
 `git commit -m "<Message>"`  
+
 For example:  
+
 `git commit -m "Added a ..."`
 
 Finally, push your changes to Github:  
@@ -82,6 +88,7 @@ To do so run the following command:
 
 `git push origin <your-branch-name>`  
 For example:  
+
 `git push origin branch_name`
 
 ---
