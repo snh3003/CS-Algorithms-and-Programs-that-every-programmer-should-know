@@ -7,7 +7,7 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/cdnjs/cdnjs?style=flat-square)](https://github.com/snh3003/CS-Algorithms-and-Programs-that-every-programmer-should-know/pulls)
 
 <!--[![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/badges/shields?color=blue&style=flat-square)](https://github.com/mbcse/Security_Hacking_Scripts/issues?q=is%3Aissue+is%3Aclosed)-->
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/cdnjs/cdnjs?color=red&style=flat-square)](https://github.com/snh3003/CS-Algorithms-and-Programs-that-every-programmer-should-know/pulls?q=is%3Apr+is%3Aclosed)
+
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
