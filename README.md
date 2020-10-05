@@ -45,10 +45,10 @@ This will create a copy of this repository in your account.
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the _copy to clipboard_ icon.  
 Now let's bring the cloned repository to your local machine.  
-`git clone <url-you-just-copied>`  
+```git clone <url-you-just-copied>```  
 
 For example:  
-` git clone https://github.com/snh3003/CS-Algorithms-and-Programs-that-every-programmer-should-know.git`
+```git clone https://github.com/snh3003/CS-Algorithms-and-Programs-that-every-programmer-should-know.git```
 
 ---
 
@@ -56,7 +56,7 @@ For example:
 
 Since you want to change the files inside, first let's move to the folder correctly. Use the following command on terminal:  
 
-`cd CS-Algorithms-and-Programs-that-every-programmer-should-know`
+```cd CS-Algorithms-and-Programs-that-every-programmer-should-know```
 
 ---
 
@@ -64,11 +64,11 @@ Since you want to change the files inside, first let's move to the folder correc
 
 Since now you're about to make your personal changes to the project, it's always a better idea to make a new branch. Run the following command:
 
-`git checkout -b <branch_name>`  
+```git checkout -b <branch_name>```  
 
 For example:  
 
-`git checkout -b new_branch`
+```git checkout -b new_branch```
 
 ---
 
@@ -76,20 +76,20 @@ For example:
 
 It's finally that time when you commit your changes and leave a beautiful commit message behind. You can run the following commands:
 
-`git add .`  
-`git commit -m "<Message>"`  
+```git add .```  
+```git commit -m "<Message>"```  
 
 For example:  
 
-`git commit -m "Added a ..."`
+```git commit -m "Added a ..."```
 
 Finally, push your changes to Github:  
 To do so run the following command:
 
-`git push origin <your-branch-name>`  
+```git push origin <your-branch-name>```  
 For example:  
 
-`git push origin branch_name`
+```git push origin branch_name```
 
 ---
 
